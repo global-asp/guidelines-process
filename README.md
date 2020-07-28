@@ -93,8 +93,9 @@ For those projects or languages that are unable to record audio in our studio, w
 
 ## Other guidelines
 
-* [Translation guidelines](https://github.com/dohliam/translation-guidelines)
-* [Audio recording guidelines](https://github.com/dohliam/audio-recording-guidelines)
+* [Translation guidelines](https://github.com/global-asp/guidelines-translation)
+* [Audio recording guidelines](https://github.com/global-asp/guidelines-audio-recording)
+* [Audio editing guidelines](https://github.com/global-asp/guidelines-audio-editing)
 
 ## License
 
